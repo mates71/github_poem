@@ -1,4 +1,4 @@
-git gitme added sair
+git gitme added sair added YAZAR
 
 aman ne olur git
 
@@ -11,5 +11,7 @@ ama pisman olma ):
 sen de mi sair oldun
 
 Mahir !!!
+
+yazar bozar ...
 
 
