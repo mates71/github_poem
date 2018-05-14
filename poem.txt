@@ -3,3 +3,5 @@ git gitme
 aman ne olur git
 
 meeeee!!!
+
+istersen hgit
